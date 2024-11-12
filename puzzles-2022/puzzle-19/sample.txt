@@ -1,0 +1,2 @@
+ore:4 ore/clay:2 ore/obsidian:3 ore,14 clay/geode:2 ore,7 obsidian
+ore:2 ore/clay:3 ore/obsidian:3 ore,8 clay/geode:3 ore,12 obsidian
